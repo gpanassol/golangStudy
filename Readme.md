@@ -6,6 +6,18 @@
 
 ## Principais comandos
 
+Help
+
+```
+go help
+```
+
+Criar novo modulo
+
+```
+go mod init <nome do modulo>
+```
+
 Executar
 
 ```
